@@ -1,2 +1,2 @@
 # oeildupeupleApp
-based in react-native ts
+based in react-native and typescript
